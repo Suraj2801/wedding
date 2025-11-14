@@ -874,7 +874,7 @@ body.offcanvason .oliven-nav-toggle {
 .header .caption h1 {
     font-family: 'Alex Brush', cursive;
     font-weight: 400;
-    margin: 0 0 15px 0;
+    margin: -30px;
     font-size: 120px;
     color: #FFF;
     display: block;
