@@ -880,6 +880,7 @@ body.offcanvason .oliven-nav-toggle {
     display: block;
     line-height: 1em;
     position: relative;
+    top: -30px;
 }
 .header .caption p {
     color: #fff;
