@@ -288,7 +288,7 @@
             minute = second * 60,
             hour = minute * 60,
             day = hour * 24;
-      let weddingDate = "Dec 15, 2026 00:00:00",
+      let weddingDate = "May 18, 2026 00:00:00",
           countDown = new Date(weddingDate).getTime();
       let x = setInterval(function() {    
         let now = new Date().getTime(),
